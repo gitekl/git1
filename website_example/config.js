@@ -1,4 +1,4 @@
-var api = "http://cryppit.com:8117";
+var api = "http://poolhost:8117";
 
 var coinUnits = 1000000000000;
 
